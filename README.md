@@ -1,7 +1,7 @@
 
 <h3 align="left">Welcome back, I'm Carlos but you can call me Charlie 👋</h3>
 
-- 🌱 I’m currently learning **Go, .NET 6, React & Software Architecture**
+- 🌱 I’m currently learning **Go, .NET Core, React & Software Architecture**
 
 - 👨‍💻 All of my projects are available at [cmartinez.me](cmartinez.me)
 
