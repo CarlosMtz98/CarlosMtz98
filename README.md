@@ -15,7 +15,7 @@
             alt="https://www.linkedin.com/in/carlosmtzrdz/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Favorite programming languages:</h3>
+<h3 align="left">Programming languages:</h3>
 <p align="left">
   <a href="https://go.dev" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="40" height="40" />
