@@ -2,8 +2,6 @@
 
 <!--- - 🌱 I’m currently learning **Go, .NET Core, React & Software Architecture** --->
 
-- 👨‍💻 All of my projects are available at [cmartinez.me](cmartinez.me)
-
 - 📫 How to reach me **cmtz.rdz.98@gmail.com**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
